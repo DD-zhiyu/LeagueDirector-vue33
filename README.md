@@ -1,5 +1,6 @@
 # LeagueDirector-vue33
 
 LeagueDirector vue项目
-
-![avatar](https://github.com/DD-zhiyu/LeagueDirector-vue33/blob/main/1.png)
+![avatar](1.png)
+![avatar](2.png)
+![avatar](3.png)
