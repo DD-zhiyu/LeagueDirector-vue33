@@ -2,4 +2,4 @@
 
 LeagueDirector vue项目
 
-![avatar](.../1.png)
+![avatar](https://github.com/DD-zhiyu/LeagueDirector-vue33/blob/main/1.png)
