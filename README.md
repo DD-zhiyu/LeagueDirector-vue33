@@ -1,2 +1,5 @@
 # LeagueDirector-vue33
-lol
+
+LeagueDirector vue项目
+
+![avatar](.../1.png)
