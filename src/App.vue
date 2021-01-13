@@ -48,7 +48,7 @@
 </template>
 
 <style>
-.pl{
+.pl {
   height: 100%;
 }
 html {
